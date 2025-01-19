@@ -1,0 +1,22 @@
+* {
+  font-family: sans-serif;
+}
+
+.btn-purple {
+  background-color: #8362f2;
+  border-color: #8362f2;
+}
+
+.input:hover {
+  border-width: 1px;
+  border-color: #8362f2;
+}
+
+.input:focus {
+  border-width: 1px;
+  border-color: #8362f2;
+}
+
+.text-purple {
+  color: #8362f2;
+}
